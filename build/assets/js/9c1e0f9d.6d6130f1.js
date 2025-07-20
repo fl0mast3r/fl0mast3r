@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[720],{4410:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/fl0mast3r/the-shopping-spree/blob/master","baseUrl":"/the-shopping-spree/","classOrder":[{"section":"Services","classes":["GenerationService"]},{"section":"Controllers","classes":["AnimationsController"]}],"apiCategories":[]}')}}]);
